@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Snackbar_Kotlin</string>
+
+    <string name="text_name1">Snackbar Ejemplo</string>
+    <string name="text_name2">Simple snackbar Ejemplo</string>
+    <string name="text_name3">Snackbar Ejemplo</string>
+    <string name="text_name4">Snackbar Ejemplo</string>
+    <string name="text_name5">Snackbar Ejemplo</string>
+
+
+</resources>
